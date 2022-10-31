@@ -13,6 +13,11 @@ Neural network for generating panel houses
 
 Процесс обучения модели представлен ниже
 
+
+---
+
+
+
 ![1-12](https://user-images.githubusercontent.com/106436340/198995562-588adabe-8bf2-4238-968c-63b9c1784832.jpg)
 
 Изображения с 1 по 12
